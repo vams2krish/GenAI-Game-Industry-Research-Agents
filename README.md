@@ -1,4 +1,4 @@
-# Crew ai Framework Agents
+# GenAI Game Industry Research Agents
 
 ![CrewAI project overview: researcher, writer, and Markdown article](docs/project-overview.svg)
 
@@ -43,8 +43,8 @@ The historical `new-blog-post.md` discusses a different industry and contains un
 Use a Python version supported by your installed CrewAI release. See the [official CrewAI installation guide](https://docs.crewai.com/en/installation) for current requirements.
 
 ```powershell
-git clone https://github.com/vams2krish/Crew-ai-Framework-Agents.git
-cd Crew-ai-Framework-Agents
+git clone https://github.com/vams2krish/GenAI-Game-Industry-Research-Agents.git
+cd GenAI-Game-Industry-Research-Agents
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
